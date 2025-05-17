@@ -1,6 +1,5 @@
 # FileShare Hub
 
-![FileShare Hub]
 
 A secure web application for storing, organizing, and sharing files built with Streamlit and Supabase.
 
